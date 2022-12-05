@@ -1,10 +1,3 @@
-//
-//  EditTableViewCell.swift
-//  AddDeleteCell
-//
-//  Created by SHUBHAM AGARWAL on 14/09/19.
-//  Copyright © 2019 SHUBHAM AGARWAL. All rights reserved.
-//
 
 import UIKit
 
